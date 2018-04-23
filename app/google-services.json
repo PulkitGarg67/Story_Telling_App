@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1086209040677",
+    "firebase_url": "https://software-631d8.firebaseio.com",
+    "project_id": "software-631d8",
+    "storage_bucket": "software-631d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086209040677:android:c6014fd92d772fbd",
+        "android_client_info": {
+          "package_name": "cic.du.ac.in.software"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086209040677-mu92tapviob1s8c7immtlouk145qo3bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cic.du.ac.in.software",
+            "certificate_hash": "bbc2e21399c1fe58dfe23f27114dd140a44e8dec"
+          }
+        },
+        {
+          "client_id": "1086209040677-nf6gd72plkknrp82ugtc9f74nfo76kdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4_vkWOaIbZW8QJnuVezGk-2MBMIGQ1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086209040677-nf6gd72plkknrp82ugtc9f74nfo76kdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
