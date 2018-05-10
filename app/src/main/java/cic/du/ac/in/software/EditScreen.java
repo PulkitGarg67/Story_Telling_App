@@ -29,7 +29,7 @@ public class EditScreen extends AppCompatActivity {
 
         fresh = editText.getText().toString().trim();
         if(fresh.isEmpty()) {
-            editText.setError("Email is Required");
+            editText.setError("Text is Empty");
             editText.requestFocus();
             return;
         }

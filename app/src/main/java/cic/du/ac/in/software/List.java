@@ -20,7 +20,7 @@ import com.google.firebase.database.ValueEventListener;
 
 public class List extends AppCompatActivity {
     private FirebaseAuth mAuth;
-    FirebaseDatabase database;
+    FirebaseDatabase database   ;
     String key;
     public void edit(View view) {
 //        database.getReference().child("Stroy").child(key).child("Contribution").child(mAuth.getCurrentUser().getUid()).Data
@@ -35,7 +35,7 @@ public class List extends AppCompatActivity {
         setContentView(R.layout.activity_list);
 
          mAuth = FirebaseAuth.getInstance();
-
+    
         Intent intent = getIntent();
         String title = intent.getStringExtra("Title");
 
